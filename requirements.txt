@@ -1,0 +1,5 @@
+matplotlib
+pyagrum
+pydotplus
+numpy
+ortools
